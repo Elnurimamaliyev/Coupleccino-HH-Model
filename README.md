@@ -1,5 +1,6 @@
 # Coupleccino-HH-Model
-See the Poster -> [Poster Link][https://github.com/Elnurimamaliyev/Coupleccino-HH-Model/blob/main/Poster_Coupleccino_Model.pdf]
+
+📊 **[View Project Poster](https://github.com/Elnurimamaliyev/Coupleccino-HH-Model/blob/main/Poster_Coupleccino_Model.pdf)**
 
 ## Overview
 Two-compartment Leech Retzius cell Hodgkin-Huxley model simulating electrical coupling between neurons (the "Coupleccino effect"). This project was developed as part of an MSc Neuroscience Team Project in Summer Semester 2024.
