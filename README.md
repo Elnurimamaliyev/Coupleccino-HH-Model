@@ -2,7 +2,7 @@
 
 ## Project Poster
 
-![Coupleccino Model Poster](Poster_Coupleccino_Model.pdf)
+![Coupleccino Model Poster](Poster_Coupleccino_Model.png)
 
 📊 **[View Full Poster PDF](https://github.com/Elnurimamaliyev/Coupleccino-HH-Model/blob/main/Poster_Coupleccino_Model.pdf)**
 
