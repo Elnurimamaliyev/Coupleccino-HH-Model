@@ -1,0 +1,39 @@
+# Coupleccino-HH-Model .gitignore
+
+# MATLAB temporary files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB session info
+matlab_crash_dump.*
+
+# Large data files (add specific patterns if needed)
+*.mat
+!example_data.mat
+
+# Generated figures
+figures/generated/*.fig
+figures/generated/*.png
+figures/generated/*.jpg
+figures/generated/*.eps
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary output
+*.log
+*.txt
+
+# Keep directory structure but ignore contents where specified
+!figures/generated/.gitkeep
+!data/real_cells/.gitkeep
